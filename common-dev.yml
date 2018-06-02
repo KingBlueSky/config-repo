@@ -15,4 +15,7 @@ spring:
     port: 5672
     username: guest
     password: guest
-    virtual-host: /    
+    virtual-host: /
+  redis:
+    host: 192.168.142.129
+    port: 6379
